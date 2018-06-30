@@ -5,6 +5,6 @@ I and my team ranked 131st(TOP 7%) in the Avito Demand Prediction Challenge on K
 
 ## Files
 1. my_best_solo_model.ipynb
-In this notebook you can find the code of my best model, which was used in the final ensemble
+- In this notebook you can find the code of my best model, which was used in the final ensemble
 2. data
-In this folder are all the files I used
+- In this folder are all the files I used
