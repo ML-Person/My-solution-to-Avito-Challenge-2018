@@ -10,4 +10,4 @@ I with my team ranked 131st (TOP 7%) in the [Avito Demand Prediction Challenge o
 
 ## Solutions by teammates:
 - [Andrew Lukyanenko](https://github.com/Erlemar/Avito_demand_prediction_2018)
-- [Insaf Ashrapov](https://github.com/Diyago/Machine-Learning-scripts/tree/master/DL/Kaggle:%20Avito%20Demand%20Prediction%20Challenge%20(bronze%20solution)
+- [Insaf Ashrapov](https://github.com/Diyago/Machine-Learning-scripts/tree/master/DL/Kaggle:%20Avito%20Demand%20Prediction%20Challenge%20(bronze%20solution))
